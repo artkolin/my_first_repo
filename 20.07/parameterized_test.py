@@ -11,3 +11,4 @@ class TestSequence(unittest.TestCase):
 
     def test_foo(self, name, a, b):
         self.assertEqual(a, b)
+
